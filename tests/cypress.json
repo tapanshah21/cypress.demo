@@ -1,0 +1,5 @@
+{
+  "defaultCommandTimeout": 8000,
+  "chromeWebSecurity": false,
+  "baseUrl": "https://nathantest.vendhq.com/"
+}
